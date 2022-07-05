@@ -4,8 +4,8 @@
   Write the **basic info** about board here
   
 ## System Requirement
-    Add **system requirement** here
+ Add **system requirement** here
 ## Software required
-    Add link to _software file_ stored in **google drive**
+ Add link to _software file_ stored in **google drive**
     
   
