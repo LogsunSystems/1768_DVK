@@ -15,7 +15,16 @@ Logsun’s ARM LPC1768-DVK is 32-bit LPC1768 is an ARM Cortex-M3 based Microcont
 * Internal RTC interface
 * On board 4x4 Matrix Keypad
 * Internal DAC interface
-
+## SYSTEM REQUIRED
+### LGS –ARM LPC1768 Development Board Includes:
+* Male to Female Straight Cable (DB-9) or USB to Serial Converter or A-B USB Cable.
+* 12V Power Adapter.
+* User’s Manual
+* Google drive link contains:
+* Flash Utility for IC.
+* Required Software (KeiluVision Evaluation Version) (16K Code Size).
+* Sample Codes for development Board.
+* Schematic.
 
 
 
